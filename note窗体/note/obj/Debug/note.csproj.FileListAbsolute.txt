@@ -1,0 +1,59 @@
+C:\Documents and Settings\Administrator\桌面\note\note\bin\Debug\note.exe
+C:\Documents and Settings\Administrator\桌面\note\note\bin\Debug\note.pdb
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\note.Form1.resources
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\note.exe
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\note.pdb
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\note.Form2.resources
+C:\Documents and Settings\Administrator\桌面\note\note\obj\Debug\note.Form3.resources
+C:\Users\lenovo\Desktop\note\note\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\note\note\obj\Debug\note.AboutBox1.resources
+C:\Users\lenovo\Desktop\note\note\obj\Debug\note.Form1.resources
+C:\Users\lenovo\Desktop\note\note\obj\Debug\note.Form2.resources
+C:\Users\lenovo\Desktop\note\note\obj\Debug\note.Form3.resources
+C:\Users\lenovo\Desktop\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Users\lenovo\Desktop\note\note\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\lenovo\Desktop\note\note\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\lenovo\Desktop\note\note\bin\Debug\note.exe
+C:\Users\lenovo\Desktop\note\note\bin\Debug\note.pdb
+C:\Users\lenovo\Desktop\note\note\obj\Debug\note.exe
+C:\Users\lenovo\Desktop\note\note\obj\Debug\note.pdb
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.exe
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.pdb
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\bin\Debug\note.exe
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\bin\Debug\note.pdb
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.AboutBox1.resources
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Form1.resources
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Form2.resources
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Form3.resources
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Users\861013235\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.exe
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.pdb
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\bin\Debug\note.exe
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\bin\Debug\note.pdb
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.AboutBox1.resources
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Form1.resources
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Form2.resources
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Form3.resources
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Users\93985\Desktop\C#_记事本完整源代码\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.exe
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.pdb
+C:\Users\93985\Desktop\note1\note\note\bin\Debug\note.exe
+C:\Users\93985\Desktop\note1\note\note\bin\Debug\note.pdb
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.AboutBox1.resources
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.Form1.resources
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.Form2.resources
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.Form3.resources
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.Form4.resources
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.Form5.resources
+C:\Users\93985\Desktop\note1\note\note\bin\Debug\note.exe.config
+C:\Users\93985\Desktop\note1\note\note\obj\Debug\note.Name.resources
